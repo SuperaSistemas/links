@@ -41,12 +41,13 @@ p{
     font-size: 18px;
     font-weight: 600;
     padding-bottom: 16px;
+    padding-top: 16px;
 }
 
 a{
     text-decoration: none;
     text-align: center;
-    width: 35%;
+    width: 50%;
     border: 1px solid black;
     color: rgba(0, 0, 0, 0.678);
     padding: 15px;
@@ -69,6 +70,7 @@ a:hover{
         padding: 0px;
     }
 }
+
 
 
 
