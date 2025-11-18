@@ -45,7 +45,7 @@ p{
 a{
     text-decoration: none;
     text-align: center;
-    width: 60%;
+    width: 35%;
     border: 1px solid black;
     color: rgba(0, 0, 0, 0.678);
     padding: 15px;
@@ -68,5 +68,6 @@ a:hover{
         padding: 0px;
     }
 }
+
 
 
