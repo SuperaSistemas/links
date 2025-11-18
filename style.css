@@ -39,7 +39,8 @@ main{
 p{
     margin-bottom: 10px;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
+    padding-bottom: 16px;
 }
 
 a{
@@ -68,6 +69,7 @@ a:hover{
         padding: 0px;
     }
 }
+
 
 
 
